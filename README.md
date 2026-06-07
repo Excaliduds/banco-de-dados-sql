@@ -1,16 +1,18 @@
-# banco-de-dados-sql
+# Banco de Dados SQL
 
-Projeto de modelagem e implementação de banco de dados relacional utilizando MySQL.
+Projeto acadêmico de modelagem e implementação de banco de dados relacional utilizando MySQL.
 
-## Funcionalidades
+## Recursos implementados
 
 - Criação de banco de dados
 - Criação de tabelas
-- Inserção de registros
+- Chaves primárias
+- Chaves estrangeiras
+- Inserção de dados
 - Consultas SQL
-- Relacionamentos entre entidades
 
 ## Tecnologias
 
 - SQL
 - MySQL
+- MySQL Workbench
