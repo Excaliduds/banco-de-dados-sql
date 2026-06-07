@@ -6,10 +6,14 @@ Sistema de banco de dados para gerenciamento de hotelaria.
 
 ## Entidades principais
 
-- Apartamentos
+- Hotéis
+- Quartos (disponíveis e ocupados)
 - Funcionários
 - Reservas
 - Hóspedes
+- Manutenção
+- Limpeza
+  
   
 ## Recursos implementados
 
